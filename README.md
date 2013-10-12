@@ -26,3 +26,7 @@ type the following command:
 
 And Vim will let you replace every vegetable in your files with sausages! :heart:
 
+Example
+-------
+
+![QuickFixDo example](https://raw.github.com/Arkham/vim-quickfixdo/master/quickfixdo.gif)
